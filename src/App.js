@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom';
 import {BrowserRouter, Route, Switch} from "react-router-dom";
 import Home from "./Components/Home";
 import Navigation from "./Components/Navigation";
-import logo from './logo.svg';
-import './App.css';
+
 
 function App() {
   return (
